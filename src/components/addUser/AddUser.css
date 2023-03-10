@@ -1,0 +1,12 @@
+.adduser-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    border: 2px solid purple;
+  }
+  
+  .add-user-form {
+    display: flex;
+    flex-direction: column;
+    height: 30vh;
+  }
